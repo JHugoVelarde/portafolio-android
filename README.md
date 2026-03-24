@@ -2,11 +2,13 @@
 
 Este es el portafolio de proyectos de aplicaciones móviles Android. Bienvenido!
 
-## 🗃️ Índice
+## :bookmark_tabs: Índice
 
 1. [Noticias App](#newspaper-noticias-app)
 2. [Viajes App](#airplane-viajes-app)
 3. [Bandeja App](#envelope-bandeja-app)
+4. [Finanzas App](#bar_chart-finanzas-app)
+5. [Chat App](#speech_balloon-chat-app)
 
 &nbsp;
 
@@ -84,6 +86,62 @@ Una aplicación nativa de demostración para Android que implementa una **Bandej
 ### 🗂️ Ver repositorio
 
 👉 [Enlace al repositorio, clic aquí](https://github.com/JHugoVelarde/bandeja) 👈
+
+&nbsp;
+
+***
+
+&nbsp;
+
+## :bar_chart: Finanzas App
+
+![Kotlin](https://img.shields.io/badge/Kotlin-2.0+-blue.svg?logo=kotlin)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Canvas-4285F4.svg?logo=android)
+![Animations](https://img.shields.io/badge/Animations-Transitions-success.svg)
+
+Aplicación financiera nativa para Android enfocada en la creación de **gráficos personalizados de alto rendimiento** utilizando exclusivamente la API de Canvas de Jetpack Compose, sin dependencias de bibliotecas de terceros para la visualización de datos.
+
+### 📱 Capturas de pantalla y video
+
+| Pantalla 1 | Pantalla 2 | Pantalla 3 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/JHugoVelarde/finanzas/blob/main/assets/scr01.jpeg" width="250"/> | <img src="https://github.com/JHugoVelarde/finanzas/blob/main/assets/scr02.jpeg" width="250"/> | <img src="https://github.com/JHugoVelarde/finanzas/blob/main/assets/scr03.jpeg" width="250"/> |
+
+| Video |
+| :---: | 
+| <img src="https://github.com/JHugoVelarde/finanzas/blob/main/assets/vdo01.gif" width="250"/> |
+
+### 🗂️ Ver repositorio
+
+👉 [Enlace al repositorio, clic aquí](https://github.com/JHugoVelarde/finanzas) 👈
+
+&nbsp;
+
+***
+
+&nbsp;
+
+## :speech_balloon: Chat App
+
+![Kotlin](https://img.shields.io/badge/Kotlin-2.0+-blue.svg?logo=kotlin)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4.svg?logo=android)
+![Insets](https://img.shields.io/badge/Window%20Insets-Edge--to--Edge-success.svg)
+
+Aplicación de mensajería nativa enfocada en la resolución de uno de los desafíos más complejos en el desarrollo móvil: **la gestión perfecta del teclado en pantalla (IME)** y el renderizado eficiente de listas invertidas en tiempo real.
+
+### 📱 Capturas de pantalla y video
+
+| Pantalla 1 | Pantalla 2 |
+| :---: | :---: |
+| <img src="https://github.com/JHugoVelarde/chat/blob/main/assets/scr01.jpeg" width="250"/> | <img src="https://github.com/JHugoVelarde/chat/blob/main/assets/scr03.jpeg" width="250"/> |
+
+| Pantalla 3 | Pantalla 4 |
+| :---: | :---: |
+| <img src="https://github.com/JHugoVelarde/chat/blob/main/assets/scr02.jpeg" width="500"/> | <img src="https://github.com/JHugoVelarde/chat/blob/main/assets/scr04.jpeg" width="500"/> |
+
+### 🗂️ Ver repositorio
+
+👉 [Enlace al repositorio, clic aquí](https://github.com/JHugoVelarde/chat) 👈
 
 &nbsp;
 
