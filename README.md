@@ -9,6 +9,7 @@ Este es el portafolio de proyectos de aplicaciones móviles Android. Bienvenido!
 3. [Bandeja App](#envelope-bandeja-app)
 4. [Finanzas App](#bar_chart-finanzas-app)
 5. [Chat App](#speech_balloon-chat-app)
+6. [Podcast App](#headphones-podcast-app)
 
 &nbsp;
 
@@ -150,6 +151,36 @@ Aplicación de mensajería nativa enfocada en la resolución de uno de los desaf
 ### 🗂️ Ver repositorio
 
 👉 [Enlace al repositorio, clic aquí](https://github.com/JHugoVelarde/chat) 👈
+
+:point_up: [Volver al Índice](#bookmark_tabs-índice)
+
+&nbsp;
+
+***
+
+&nbsp;
+
+## :headphones: Podcast App
+
+![Kotlin](https://img.shields.io/badge/Kotlin-2.0+-blue.svg?logo=kotlin)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4.svg?logo=android)
+![Hilt](https://img.shields.io/badge/Dagger%20Hilt-DI-success.svg)
+
+Réplica arquitectónica del proyecto oficial de Google enfocada en el manejo complejo de reproductores multimedia persistentes, inyección de dependencias moderna con Kotlin 2.0 y navegación tipada.
+
+## 📱 Capturas de pantalla y video
+
+| Pantalla 1 | Pantalla 2 | Pantalla 3 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/JHugoVelarde/podcast/blob/main/assets/scr01.jpeg" width="250"/> | <img src="https://github.com/JHugoVelarde/podcast/blob/main/assets/scr02.jpeg" width="250"/> | <img src="https://github.com/JHugoVelarde/podcast/blob/main/assets/scr03.jpeg" width="250"/> |
+
+| Video |
+| :---: | 
+| <img src="https://github.com/JHugoVelarde/podcast/blob/main/assets/vdo01.gif" width="250"/> |
+
+### 🗂️ Ver repositorio
+
+👉 [Enlace al repositorio, clic aquí](https://github.com/JHugoVelarde/podcast) 👈
 
 :point_up: [Volver al Índice](#bookmark_tabs-índice)
 
